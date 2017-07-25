@@ -1,0 +1,16 @@
+{
+  "name": "botunity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.5.5",
+    "http": "0.0.0",
+    "node-wit": "^4.2.0"
+  }
+}
